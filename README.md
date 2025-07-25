@@ -1,4 +1,4 @@
-@"
+
 # Network Intrusion Detection 🚨
 
 This project is focused on building an anomaly-based **Network Intrusion Detection System** to detect **Neptune (SYN flood)** attacks using classical machine learning models.
